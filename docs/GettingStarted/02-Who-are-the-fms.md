@@ -45,7 +45,7 @@ This goes some way to mitigate the custodial risk involved with Fedimint.
 
 For example, I am less likely to steal from my mum, her friends and my brothers than a random stranger on the internet as there will be social consequences to this action that I find incalculably large.
 
-This model would likely would include families, friends, small villages and community groups as examples of groups with strong second party relationships.
+This model would likely include families, friends, small villages and community groups as examples of groups with strong second party relationships.
 
 These larger community bodies could even be formalized with constitutions to describe the operations of the federation.
 
